@@ -1,0 +1,23 @@
+1. git init
+2. git status
+3. git add .
+4. git commit -m "any message"
+
+# configuration
+1. git config --golabl user.name "my name"
+2. git config --global user.email "my@emai.com"
+
+# adding remote repository
+1. git remote add origin https://github.com/faizan1402/git-tutorials.git
+
+# pushing
+1. git push -u origin master
+
+# pulling
+1. git pull origin master
+
+# reset
+1. git reset HEAD~1
+
+# clone
+1. git clone https://github.com/faizan1402/git-tutorials.git
